@@ -1,4 +1,4 @@
-import os
+nimport os
 
 def process_folder(input_folder, output_folder):
     # 检查输出文件夹是否存在，如果不存在则创建
